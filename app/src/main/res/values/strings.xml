@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="welcome_text">Welcome to the portales!</string>
+    <string name="welcome_description">Taqueria Los portales is a quick, casual restaurant.</string>
+    <string name="button_start">get started!</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="terms">I have read and acept terms and conditions of the Cheezery</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="our_menu">OUR MENU</string>
+    <string name="antojitos_menu">Antojitos</string>
+    <string name="especialidades_menu">ESPECIALIDADES</string>
+    <string name="combinations_menu">COMBINATIONS</string>
+    <string name="tortas_menu">TORTAS</string>
+    <string name="sopas_menu">SOPAS</string>
+    <string name="drinks_menu">DRINKS</string>
+</resources>
